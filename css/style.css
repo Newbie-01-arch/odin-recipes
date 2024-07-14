@@ -1,0 +1,93 @@
+*{
+    font-family: 'Courier New', Courier, monospace,sans-serif;
+    /* background: rgb(6, 248, 196); */
+    background-color: #ffffff;
+}
+
+body{
+    
+}
+
+.home {
+  text-align: center;
+
+}
+.home li {
+    list-style-type: none;
+}
+.home li a{
+    text-decoration: none;
+}
+
+#sushis,#tacos,.lasagna{
+    margin-left: 150px;
+}
+
+
+
+
+.lasagna h1{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+    font-size: 40px;
+}
+
+.lasagna h3{
+    font-weight: bolder;
+}
+
+.lasagna h4{
+    font-weight: bolder;
+}
+
+.lasagna img{
+    width: 500px;
+    height: 350px;
+}
+
+
+
+
+
+#tacos h1{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+    font-size: 40px;
+}
+
+#tacos h3{
+    font-weight: bolder;
+}
+
+#tacos h4{
+    font-weight: bolder;
+}
+
+#tacos img{
+    width: 500px;
+    height: 350px;
+}
+
+
+
+#sushis h1{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+    font-size: 40px;
+}
+
+#sushis h3{
+    font-weight: bolder;
+}
+
+#sushis h4{
+    font-weight: bolder;
+}
+
+#sushis img{
+    width: 500px;
+    height: 350px;
+}
